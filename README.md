@@ -9,6 +9,6 @@
 
 | 프로젝트명        | 역할            | 설명                                    | 기간                 | GitHub                                        | 배포 링크                         |
 | ------------ | ------------- | ------------------------------------- | ------------------ | --------------------------------------------- | ----------------------------- |
-| Ecok | BE, DevOps | 카페 브랜딩은 살리고, 적립은 쉽게! 카페 사장님과 고객을 위한 모바일 스탬프 적립 서비스 Ecok | 2025.03 \~ ing | [GitHub](https://github.com/CSID-DGU/2025-1-SCS4031-NOVA-S5-BE) | [일반회원용 페이지](https://www.ecok.co.kr), [카페회원용 페이지](https://www.ecok.co.kr/owner/login) |
+| Ecok | BE, DevOps | 카페 브랜딩은 살리고, 적립은 쉽게! 카페 사장님과 고객을 위한 모바일 스탬프 적립 서비스 Ecok | 2025.03 \~ ing | [GitHub](https://github.com/CSID-DGU/2025-1-SCS4031-NOVA-S5-BE) | [리틀리](https://litt.ly/ecok), [일반회원용 페이지](https://www.ecok.co.kr), [카페회원용 페이지](https://www.ecok.co.kr/owner/login) |
 | 동국대학교 Farm System 홈페이지        | Leader, BE, DevOps         | 동아리 홍보용 홈페이지 및 동아리 내 커뮤니티 플랫폼 개발           | 2025.02 \~ ing             | [GitHub](https://github.com/DguFarmSystem/HomePage-BE)                                   | [FarmSystem 홈페이지](https://www.farmsystem.kr/), [파밍로그](https://farminglog.farmsystem.kr/)                 |
 | DuoBloom       | BE            | 난임 부부 종합 케어 솔루션 듀오블룸                                 | 2024.09 \~ 2024.11               | [GitHub](https://github.com/duobloom/DuoBloom-BE)                                   | -                   |
