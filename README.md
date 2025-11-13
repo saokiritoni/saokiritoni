@@ -9,7 +9,7 @@
 
 | 프로젝트명        | 역할            | 설명                                    | 기간                 | GitHub                                        | 배포 링크                         |
 | ------------ | ------------- | ------------------------------------- | ------------------ | --------------------------------------------- | ----------------------------- |
-| 서버관리자 업무 자동화 시스템 | BE, DevOps | GPU 서버 사용 신청 관리 및 관리자용 시스템 | 2025.07 ~ ing | [Github](https://github.com/saokiritoni/admin_be) | (내부 시스템) 미공개 |
+| 서버관리자 업무 자동화 시스템 | BE, DevOps | GPU 서버 사용 신청 관리 및 관리자용 시스템 | 2025.07 ~ ing | [Github](https://github.com/CSID-DGU/admin_be) | (내부 시스템) 미공개 |
 | Ecok | BE, DevOps | 카페 브랜딩은 살리고, 적립은 쉽게! 카페 사장님과 고객을 위한 모바일 스탬프 적립 서비스 Ecok | 2025.03 \~ 2025.07 | [GitHub](https://github.com/CSID-DGU/2025-1-SCS4031-NOVA-S5-BE) | [리틀리](https://litt.ly/ecok), 서비스 종료 |
 | 동국대학교 Farm System 홈페이지        | Leader, BE, DevOps         | 동아리 홍보용 홈페이지 및 동아리 내 커뮤니티 플랫폼 개발           | 2025.02 \~ ing             | [GitHub](https://github.com/DguFarmSystem/HomePage-BE)                                   | [FarmSystem 홈페이지](https://www.farmsystem.kr/), [파밍로그](https://farminglog.farmsystem.kr/)                 |
 | DuoBloom       | BE            | 난임 부부 종합 케어 솔루션 듀오블룸                                 | 2024.09 \~ 2024.11               | [GitHub](https://github.com/duobloom/DuoBloom-BE)                                   | -                   |
