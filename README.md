@@ -1,8 +1,6 @@
-### ☁️ cool & soft backend
-
 | 항목             | 내용                                                                                        |
 | -------------- | ----------------------------------------------------------------------------------------- |
-| **Education**  | - 동국대학교 경영정보학과 & 융합소프트웨어 (2021.03 \~)<br>- 구름톤 트레이닝 풀스택 6회차 수료 (2023.12.27 \~ 2024.07.11) |
+| **Education**  | - 동국대학교 경영정보학과 & 융합소프트웨어 |
 | **Activities** | - GDGoC DGU (Google Developer Group on Campus Dongguk University) Server/Cloud Core member (2025.08 ~ ing) <br> - 동국대학교 GPU 서버관리자 (2025.01 ~ ing) <br> - 2025 Farm System 4기 보안/웹 트랙 트랙장 <br> - 2024 Farm System 3기 보안/네트워크 트랙 부트랙장 |
 | **Awards**     | - 2024 K-디지털 트레이닝 해커톤 최우수상 (고용노동부장관상)<br>- 2024 동국대학교 AI융합대학 해커톤 ICONICTHON 대상<br>- 2025 동국대학교 여름 종합설계 결과발표회 장려상            |
 
