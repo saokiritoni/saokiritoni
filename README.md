@@ -3,7 +3,7 @@
 | Category | Details |
 | :--- | :--- |
 | **Education** | - **Dongguk University**<br>Management Information Systems & Convergence Software |
-| **Activities** | - **GDGoC DGU (Google Developer Group on Campus Dongguk University)**<br>&nbsp;&nbsp;Server/Cloud Core Member (Aug 2025 – Present)<br>- **Dongguk University GPU Server Administrator** (Jan 2025 – Present)<br>- **2025 Farm System 4th Gen**<br>&nbsp;&nbsp;Security/Web Track Lead<br>- **2024 Farm System 3rd Gen**<br>&nbsp;&nbsp;Security/Network Track Vice Lead |
+| **Activities** | - **GDGoC DGU (Google Developer Group on Campus Dongguk University)**<br>&nbsp;&nbsp;Server/Cloud Core Member (Aug 2025 – Present)<br>- **Dongguk University GPU Server Administrator** (Jan 2025 – Feb 2026)<br>- **2025 Farm System 4th Gen**<br>&nbsp;&nbsp;Security/Web Track Lead<br>- **2024 Farm System 3rd Gen**<br>&nbsp;&nbsp;Security/Network Track Vice Lead |
 | **Awards** | - **Top Excellence Award (Minister of Employment and Labor Award)**<br>&nbsp;&nbsp;2024 K-Digital Training Hackathon<br>- **Grand Prize**<br>&nbsp;&nbsp;2024 Dongguk Univ. AI Convergence College Hackathon ICONICTHON<br>- **Encouragement Award**<br>&nbsp;&nbsp;2025 Dongguk Univ. Summer Capstone Design Showcase |
 
 ### Projects
